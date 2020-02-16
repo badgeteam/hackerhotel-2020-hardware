@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP OH49E
+D High Sensitivity Micropower Omnipolar Hall-Effect Switch, SIP-3
+K hall switch
+F https://www.diodes.com/assets/Datasheets/AH1806.pdf
+$ENDCMP
+#
+#End Doc Library

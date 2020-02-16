@@ -1,0 +1,1373 @@
+440991697013307
+FDS4435BZ
+SO08-E3
+<b>SMALL OUTLINE INTEGRATED CIRCUIT</b><p>body 3.9 mm/JEDEC MS-012AA<p>(combined pins variation)
+
+0
+3
+3
+TestPoint
+TestPoint_2Pads_Pitch2.54mm_Drill0.8mm
+Test point with 2 pins, pitch 2.54mm, drill diameter 0.8mm
+CONN DEV
+0
+2
+2
+TestPoint
+TestPoint_2Pads_Pitch5.08mm_Drill1.3mm
+Test point with 2 pads, pitch 5.08mm, hole diameter 1.3mm, wire diameter 1.0mm
+CONN DEV
+0
+2
+2
+TestPoint
+TestPoint_Bridge_Pitch2.0mm_Drill0.7mm
+wire loop as test point, pitch 2.0mm, hole diameter 0.7mm, wire diameter 0.5mm
+test point wire loop
+0
+2
+1
+TestPoint
+TestPoint_Bridge_Pitch2.54mm_Drill0.7mm
+wire loop as test point, pitch 2.0mm, hole diameter 0.7mm, wire diameter 0.5mm
+test point wire loop
+0
+2
+1
+TestPoint
+TestPoint_Bridge_Pitch2.54mm_Drill1.0mm
+wire loop as test point, pitch 2.54mm, hole diameter 1.0mm, wire diameter 0.8mm
+test point wire loop
+0
+2
+1
+TestPoint
+TestPoint_Bridge_Pitch2.54mm_Drill1.3mm
+wire loop as test point, pitch 2.54mm, hole diameter 1.3mm, wire diameter 1.0mm
+test point wire loop
+0
+2
+1
+TestPoint
+TestPoint_Bridge_Pitch3.81mm_Drill1.3mm
+wire loop as test point, pitch 3.81mm, hole diameter 1.3mm, wire diameter 1.0mm
+test point wire loop
+0
+2
+1
+TestPoint
+TestPoint_Bridge_Pitch5.08mm_Drill0.7mm
+wire loop as test point, pitch 5.08mm, hole diameter 0.7mm, wire diameter 1.0mm
+test point wire loop
+0
+2
+1
+TestPoint
+TestPoint_Bridge_Pitch5.08mm_Drill1.3mm
+wire loop as test point, pitch 5.08mm, hole diameter 1.3mm, wire diameter 1.0mm
+test point wire loop
+0
+2
+1
+TestPoint
+TestPoint_Bridge_Pitch6.35mm_Drill1.3mm
+wire loop as test point, pitch 6.35mm, hole diameter 1.3mm, wire diameter 1.0mm
+test point wire loop
+0
+2
+1
+TestPoint
+TestPoint_Bridge_Pitch7.62mm_Drill1.3mm
+wire loop as test point, pitch 7.62mm, hole diameter 1.3mm, wire diameter 1.0mm
+test point wire loop
+0
+2
+1
+TestPoint
+TestPoint_Keystone_5000-5004_Miniature
+Keystone Miniature THM Test Point 5000-5004, http://www.keyelco.com/product-pdf.cfm?p=1309
+Through Hole Mount Test Points
+0
+1
+1
+TestPoint
+TestPoint_Keystone_5005-5009_Compact
+Keystone Miniature THM Test Point 5005-5009, http://www.keyelco.com/product-pdf.cfm?p=1314
+Through Hole Mount Test Points
+0
+1
+1
+TestPoint
+TestPoint_Keystone_5010-5014_Multipurpose
+Keystone Miniature THM Test Point 5010-5014, http://www.keyelco.com/product-pdf.cfm?p=1319
+Through Hole Mount Test Points
+0
+1
+1
+TestPoint
+TestPoint_Keystone_5015_Micro-Minature
+SMT Test Point- Micro Miniature 5015, http://www.keyelco.com/product-pdf.cfm?p=1353
+Test Point
+0
+1
+1
+TestPoint
+TestPoint_Keystone_5019_Minature
+SMT Test Point- Micro Miniature 5019, http://www.keyelco.com/product-pdf.cfm?p=1357
+Test Point
+0
+1
+1
+TestPoint
+TestPoint_Loop_D1.80mm_Drill1.0mm_Beaded
+wire loop with bead as test point, loop diameter 1.8mm, hole diameter 1.0mm
+test point wire loop bead
+0
+1
+1
+TestPoint
+TestPoint_Loop_D2.50mm_Drill1.0mm
+wire loop as test point, loop diameter 2.5mm, hole diameter 1.0mm
+test point wire loop bead
+0
+1
+1
+TestPoint
+TestPoint_Loop_D2.50mm_Drill1.0mm_LowProfile
+low profile wire loop as test point, loop diameter 2.5mm, hole diameter 1.0mm
+test point wire loop bead
+0
+1
+1
+TestPoint
+TestPoint_Loop_D2.50mm_Drill1.85mm
+wire loop as test point, loop diameter 2.5mm, hole diameter 1.85mm
+test point wire loop bead
+0
+1
+1
+TestPoint
+TestPoint_Loop_D2.54mm_Drill1.5mm_Beaded
+wire loop with bead as test point, loop diameter2.548mm, hole diameter 1.5mm
+test point wire loop bead
+0
+1
+1
+TestPoint
+TestPoint_Loop_D2.60mm_Drill0.9mm_Beaded
+wire loop with bead as test point, loop diameter2.6mm, hole diameter 0.9mm
+test point wire loop bead
+0
+1
+1
+TestPoint
+TestPoint_Loop_D2.60mm_Drill1.4mm_Beaded
+wire loop with bead as test point, loop diameter2.6mm, hole diameter 1.4mm
+test point wire loop bead
+0
+1
+1
+TestPoint
+TestPoint_Loop_D2.60mm_Drill1.6mm_Beaded
+wire loop with bead as test point, loop diameter2.6mm, hole diameter 1.6mm
+test point wire loop bead
+0
+1
+1
+TestPoint
+TestPoint_Loop_D3.50mm_Drill0.9mm_Beaded
+wire loop with bead as test point, loop diameter2.6mm, hole diameter 0.9mm
+test point wire loop bead
+0
+1
+1
+TestPoint
+TestPoint_Loop_D3.50mm_Drill1.4mm_Beaded
+wire loop with bead as test point, loop diameter 3.5mm, hole diameter 1.4mm
+test point wire loop bead
+0
+1
+1
+TestPoint
+TestPoint_Loop_D3.80mm_Drill2.0mm
+wire loop as test point, loop diameter 3.8mm, hole diameter 2.0mm
+test point wire loop bead
+0
+1
+1
+TestPoint
+TestPoint_Loop_D3.80mm_Drill2.5mm
+wire loop as test point, loop diameter 3.8mm, hole diameter 2.5mm
+test point wire loop bead
+0
+1
+1
+TestPoint
+TestPoint_Loop_D3.80mm_Drill2.8mm
+wire loop as test point, loop diameter 3.8mm, hole diameter 2.8mm
+test point wire loop bead
+0
+1
+1
+TestPoint
+TestPoint_Pad_1.0x1.0mm
+SMD rectangular pad as test Point, square 1.0mm side length
+test point SMD pad rectangle square
+0
+1
+1
+TestPoint
+TestPoint_Pad_1.5x1.5mm
+SMD rectangular pad as test Point, square 1.5mm side length
+test point SMD pad rectangle square
+0
+1
+1
+TestPoint
+TestPoint_Pad_2.0x2.0mm
+SMD rectangular pad as test Point, square 2.0mm side length
+test point SMD pad rectangle square
+0
+1
+1
+TestPoint
+TestPoint_Pad_2.5x2.5mm
+SMD rectangular pad as test Point, square 2.5mm side length
+test point SMD pad rectangle square
+0
+1
+1
+TestPoint
+TestPoint_Pad_3.0x3.0mm
+SMD rectangular pad as test Point, square 3.0mm side length
+test point SMD pad rectangle square
+0
+1
+1
+TestPoint
+TestPoint_Pad_4.0x4.0mm
+SMD rectangular pad as test Point, square 4.0mm side length
+test point SMD pad rectangle square
+0
+1
+1
+TestPoint
+TestPoint_Pad_D1.0mm
+SMD pad as test Point, diameter 1.0mm
+test point SMD pad
+0
+1
+1
+TestPoint
+TestPoint_Pad_D1.5mm
+SMD pad as test Point, diameter 1.5mm
+test point SMD pad
+0
+1
+1
+TestPoint
+TestPoint_Pad_D2.0mm
+SMD pad as test Point, diameter 2.0mm
+test point SMD pad
+0
+1
+1
+TestPoint
+TestPoint_Pad_D2.5mm
+SMD pad as test Point, diameter 2.5mm
+test point SMD pad
+0
+1
+1
+TestPoint
+TestPoint_Pad_D3.0mm
+SMD pad as test Point, diameter 3.0mm
+test point SMD pad
+0
+1
+1
+TestPoint
+TestPoint_Pad_D4.0mm
+SMD pad as test Point, diameter 4.0mm
+test point SMD pad
+0
+1
+1
+TestPoint
+TestPoint_Plated_Hole_D2.0mm
+Plated Hole as test Point, diameter 2.0mm
+test point plated hole
+0
+1
+1
+TestPoint
+TestPoint_Plated_Hole_D3.0mm
+Plated Hole as test Point, diameter 3.0mm
+test point plated hole
+0
+1
+1
+TestPoint
+TestPoint_Plated_Hole_D4.0mm
+Plated Hole as test Point, diameter 4.0mm
+test point plated hole
+0
+1
+1
+TestPoint
+TestPoint_Plated_Hole_D5.0mm
+Plated Hole as test Point, diameter 5.0mm
+test point plated hole
+0
+1
+1
+TestPoint
+TestPoint_THTPad_1.0x1.0mm_Drill0.5mm
+THT rectangular pad as test Point, square 1.0mm side length, hole diameter 0.5mm
+test point THT pad rectangle square
+0
+1
+1
+TestPoint
+TestPoint_THTPad_1.5x1.5mm_Drill0.7mm
+THT rectangular pad as test Point, square 1.5mm side length, hole diameter 0.7mm
+test point THT pad rectangle square
+0
+1
+1
+TestPoint
+TestPoint_THTPad_2.0x2.0mm_Drill1.0mm
+THT rectangular pad as test Point, square 2.0mm_Drill1.0mm  side length, hole diameter 1.0mm
+test point THT pad rectangle square
+0
+1
+1
+TestPoint
+TestPoint_THTPad_2.5x2.5mm_Drill1.2mm
+THT rectangular pad as test Point, square 2.5mm side length, hole diameter 1.2mm
+test point THT pad rectangle square
+0
+1
+1
+TestPoint
+TestPoint_THTPad_3.0x3.0mm_Drill1.5mm
+THT rectangular pad as test Point, square 3.0mm side length, hole diameter 1.5mm
+test point THT pad rectangle square
+0
+1
+1
+TestPoint
+TestPoint_THTPad_4.0x4.0mm_Drill2.0mm
+THT rectangular pad as test Point, square 4.0mm  side length, hole diameter 2.0mm
+test point THT pad rectangle square
+0
+1
+1
+TestPoint
+TestPoint_THTPad_D1.0mm_Drill0.5mm
+THT pad as test Point, diameter 1.0mm, hole diameter 0.5mm
+test point THT pad
+0
+1
+1
+TestPoint
+TestPoint_THTPad_D1.5mm_Drill0.7mm
+THT pad as test Point, diameter 1.5mm, hole diameter 0.7mm
+test point THT pad
+0
+1
+1
+TestPoint
+TestPoint_THTPad_D2.0mm_Drill1.0mm
+THT pad as test Point, diameter 2.0mm, hole diameter 1.0mm
+test point THT pad
+0
+1
+1
+TestPoint
+TestPoint_THTPad_D2.5mm_Drill1.2mm
+THT pad as test Point, diameter 2.5mm, hole diameter 1.2mm 
+test point THT pad
+0
+1
+1
+TestPoint
+TestPoint_THTPad_D3.0mm_Drill1.5mm
+THT pad as test Point, diameter 3.0mm, hole diameter 1.5mm
+test point THT pad
+0
+1
+1
+TestPoint
+TestPoint_THTPad_D4.0mm_Drill2.0mm
+THT pad as test Point, diameter 4.0mm, hole diameter 2.0mm
+test point THT pad
+0
+1
+1
+USB3131-XX-0230-X_REVB
+GCT_USB3131-XX-0230-X_REVB
+
+
+0
+7
+7
+Version 1 without artwork
+BatteryHolder_Keystone_2460_1xAA
+https://www.keyelco.com/product-pdf.cfm?p=1025
+AA battery cell holder
+0
+2
+2
+Version 1 without artwork
+CP_Tantalum_Case-A_EIA-3216-18_Reflow
+Tantalum capacitor, Case A, EIA 3216-18, 3.2x1.6x1.6mm, Reflow soldering footprint
+capacitor tantalum smd
+0
+2
+2
+Version 1 without artwork
+C_0603
+Capacitor SMD 0603, reflow soldering, AVX (see smccp.pdf)
+capacitor 0603
+0
+2
+2
+Version 1 without artwork
+D_SOD-123
+SOD-123
+SOD-123
+0
+2
+2
+Version 1 without artwork
+L_Bourns-SRN8040_8x8.15mm
+Bourns SRN8040 series SMD inductor 8x8.15mm, https://www.bourns.com/docs/Product-Datasheets/SRN8040.pdf
+Bourns SRN8040 SMD inductor
+0
+2
+2
+Version 1 without artwork
+PJ320D_3.5mm_Jack
+Headphones with microphone connector, 3.5mm, 4 pins.
+3.5mm jack mic microphone phones headphones 4pins audio plug
+0
+4
+4
+Version 1 without artwork
+Pin_Header_Straight_1x04_Pitch2.54mm
+Through hole straight pin header, 1x04, 2.54mm pitch, single row
+Through hole pin header THT 1x04 2.54mm single row
+0
+4
+4
+Version 1 without artwork
+Pin_Header_Straight_2x03_Pitch2.54mm
+Through hole straight pin header, 2x03, 2.54mm pitch, double rows
+Through hole pin header THT 2x03 2.54mm double row
+0
+6
+6
+Version 1 without artwork
+QFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm
+QFN, 24 Pin (http://ww1.microchip.com/downloads/en/PackagingSpec/00000049BQ.pdf#page=278), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
+QFN DFN_QFN
+0
+29
+25
+Version 1 without artwork
+R_0603
+Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)
+resistor 0603
+0
+2
+2
+Version 1 without artwork
+R_0805
+Resistor SMD 0805, reflow soldering, Vishay (see dcrcw.pdf)
+resistor 0805
+0
+2
+2
+Version 1 without artwork
+SK3296S01L1
+SK-3296S-01-L1-1
+Connector
+0
+8
+8
+Version 1 without artwork
+SOIC-8-N
+Module Narrow CMS SOJ 8 pins large
+CMS SOJ
+0
+8
+8
+Version 1 without artwork
+SOT-23
+SOT-23, Standard
+SOT-23
+0
+3
+3
+Version 1 without artwork
+SOT-23-5
+5-pin SOT23 package
+SOT-23-5
+0
+5
+5
+Version 1 without artwork
+SOT-89-3
+SOT-89-3
+SOT-89-3
+0
+6
+3
+Version 1 without artwork
+SW_SPST_SKQG
+ALPS 5.2mm Square Low-profile TACT Switch (SMD), http://www.alps.com/prod/info/E/PDF/Tact/SurfaceMount/SKQG/SKQG.PDF
+SPST Button Switch
+0
+4
+2
+Version 1 without artwork
+TestPoint_Pad_1.0x1.0mm
+SMD rectangular pad as test Point, square 1.0mm side length
+test point SMD pad rectangle square
+0
+1
+1
+Version 1 without artwork
+TestPoint_Pad_1.5x1.5mm
+SMD rectangular pad as test Point, square 1.5mm side length
+test point SMD pad rectangle square
+0
+1
+1
+Version 1 without artwork
+hackerhotel_text_pcb
+
+
+0
+0
+0
+Version 1 without artwork
+led-sideways-2.0x0.5
+
+
+0
+2
+2
+abracon
+ABM7
+
+
+0
+2
+2
+adafruit
+Feather_Pinout
+Adafruit Feather pinout
+
+0
+28
+28
+asmb-ktf0-0a306
+LED_ASMB-KTF0-0A306
+
+
+0
+4
+4
+barrel-jack
+PJ-037BH-SMT
+
+
+0
+3
+3
+barrel-jack
+PJ-037BH-SMT-OVAL
+
+
+0
+3
+3
+barrel-jack
+PJ-037BH-SMT-OVAL-EDGE
+
+
+0
+6
+3
+barrel-jack
+SMA-Jack-Straight
+
+
+0
+5
+0
+bivar
+908-XXX
+
+
+0
+1
+0
+bivar
+Spacer
+
+
+0
+1
+0
+chickadee
+chickadee_1.6mm_ss
+
+
+0
+0
+0
+chickadee
+chickadee_1mm_fcu
+
+
+0
+0
+0
+chickadee
+chickadee_1mm_ss
+
+
+0
+0
+0
+chickadee
+chickadee_2mm_fcu
+
+
+0
+0
+0
+chickadee
+chickadee_2mm_ss
+
+
+0
+0
+0
+chickadee
+chickadee_3mm_fcu
+
+
+0
+0
+0
+chickadee
+chickadee_3mm_ss
+
+
+0
+0
+0
+chickadee
+chickadee_6mm
+
+
+0
+0
+0
+chickadee
+chickadee_inverted_3mm_ss
+
+
+0
+0
+0
+chickadee
+chickadee_outline_1.6mm_fsm
+
+
+0
+0
+0
+chickadee
+chickadee_outline_1mm_fsm
+
+
+0
+0
+0
+chickadee
+chickadee_outline_2mm_fsm
+
+
+0
+0
+0
+chickadee
+chickadee_outline_3mm_fsm
+
+
+0
+0
+0
+cmt-1603-smt
+CMT-1603-SMT
+
+
+0
+2
+2
+copal-electronics
+CL-SB-22B
+
+
+0
+6
+6
+fci
+Mini-USB B
+
+
+0
+11
+5
+fci
+Mini-USB-B
+
+
+0
+11
+6
+fci
+Mini-USB-B-EDGE
+
+
+0
+13
+6
+fci
+Mini-USB-B-OshPark
+
+
+0
+11
+6
+fci
+SFW12LF-16pin
+
+
+0
+18
+16
+flash
+SOIC-8
+
+
+0
+8
+8
+flightstack
+flightstack-4mm
+
+
+0
+0
+0
+flightstack
+flightstack-8mm
+
+
+0
+0
+0
+flightstack
+flightstack-12mm
+
+
+0
+0
+0
+flightstack
+flightstack_thin-4mm
+
+
+0
+0
+0
+flightstack
+flightstack_thin-8mm
+
+
+0
+0
+0
+flightstack
+flightstack_thin-12mm
+
+
+0
+0
+0
+flightstack
+fs-2mm
+
+
+0
+0
+0
+flightstack
+fs-4mm
+
+
+0
+0
+0
+flightstack
+fs-6.4mm
+
+
+0
+0
+0
+hh2020
+led-sideways-2.0x0.5
+
+
+0
+2
+2
+hirose-df40
+DF40-1.5mm-20pin-Receptacle
+
+
+0
+20
+20
+hirose-df40
+DF40-3-4mm-80pin-Receptacle
+
+
+0
+80
+80
+hirose-df40
+DF40-20pin-Header
+
+
+0
+24
+20
+hirose-df40
+DF40-80pin-Header
+
+
+0
+84
+80
+invensense
+QFN-24-1EP_3x3mm_Pitch0.4mm
+24-Lead Plastic QFN (3mm x 3mm); Pitch 0.4mm
+QFN 0.4
+0
+25
+25
+jumpers
+DirectionalJumperOpen
+
+
+0
+2
+2
+kicad
+badgeteam
+
+
+0
+0
+0
+kicad
+catshape4
+
+
+0
+0
+0
+kicad
+hackerhotel
+
+
+0
+0
+0
+lattice
+CB132
+
+
+0
+132
+132
+macrofab
+Fiducial
+
+
+0
+1
+0
+microsd
+DM3AT
+
+
+0
+14
+14
+microsd
+DM3CS-SF
+
+
+0
+16
+13
+mill-max-pogo-pin
+0910
+
+
+0
+1
+1
+murata-resonator
+CSTCE_G-CSTCE_G_Z
+
+
+0
+3
+3
+nxp
+DHVQFN24
+
+
+0
+24
+24
+nxp
+SFW12LF
+
+
+0
+0
+0
+nxp
+SFW12LF-16pin
+
+
+0
+18
+16
+nxp
+SOT763-1(DHVQFN16)
+
+
+0
+16
+16
+nxp
+SOT1061
+
+
+0
+4
+3
+oshw
+oshw-1mm
+
+
+0
+0
+0
+oshw
+oshw-2mm
+
+
+0
+0
+0
+oshw
+oshw-3mm
+
+
+0
+0
+0
+oshw
+oshw-4mm
+
+
+0
+0
+0
+oshw
+oshw-6mm
+
+
+0
+0
+0
+oshw
+oshw-8mm
+
+
+0
+0
+0
+pin-headers
+16awg_Pin_Header_Straight_1x02
+Through hole pin header
+pin header
+0
+2
+2
+pin-headers
+Pin_Header_Straight_1x02
+Through hole pin header
+pin header
+0
+2
+2
+polystack
+polystack-bold-0.4
+Imported from ../chickadee-projects/shared/kicad/libraries/public/footprints/polystack.pretty/polystack.svg
+svg2mod
+0
+0
+0
+polystack
+polystack-bold-0.5
+Imported from ../chickadee-projects/shared/kicad/libraries/public/footprints/polystack.pretty/polystack.svg
+svg2mod
+0
+0
+0
+polystack
+polystack-bold-0.75
+Imported from ../chickadee-projects/shared/kicad/libraries/public/footprints/polystack.pretty/polystack.svg
+svg2mod
+0
+0
+0
+polystack
+polystack-bold-0.625
+Imported from ../chickadee-projects/shared/kicad/libraries/public/footprints/polystack.pretty/polystack.svg
+svg2mod
+0
+0
+0
+polystack
+polystack-bold-1
+Imported from ../chickadee-projects/shared/kicad/libraries/public/footprints/polystack.pretty/polystack.svg
+svg2mod
+0
+0
+0
+polystack
+polystack-bold-1.1
+Imported from ../chickadee-projects/shared/kicad/libraries/public/footprints/polystack.pretty/polystack.svg
+svg2mod
+0
+0
+0
+polystack
+polystack-medium-0.4
+Imported from ../chickadee-projects/shared/kicad/libraries/public/footprints/polystack.pretty/polystack-medium.svg
+svg2mod
+0
+0
+0
+polystack
+polystack-medium-0.5
+Imported from ../chickadee-projects/shared/kicad/libraries/public/footprints/polystack.pretty/polystack-medium.svg
+svg2mod
+0
+0
+0
+polystack
+polystack-medium-0.75
+Imported from ../chickadee-projects/shared/kicad/libraries/public/footprints/polystack.pretty/polystack-medium.svg
+svg2mod
+0
+0
+0
+polystack
+polystack-medium-0.625
+Imported from ../chickadee-projects/shared/kicad/libraries/public/footprints/polystack.pretty/polystack-medium.svg
+svg2mod
+0
+0
+0
+polystack
+polystack-medium-1
+Imported from ../chickadee-projects/shared/kicad/libraries/public/footprints/polystack.pretty/polystack-medium.svg
+svg2mod
+0
+0
+0
+polystack
+polystack-medium-1.1
+Imported from ../chickadee-projects/shared/kicad/libraries/public/footprints/polystack.pretty/polystack-medium.svg
+svg2mod
+0
+0
+0
+polystack
+polystack-normal-0.4
+Imported from ../chickadee-projects/shared/kicad/libraries/public/footprints/polystack.pretty/polystack-normal.svg
+svg2mod
+0
+0
+0
+polystack
+polystack-normal-0.5
+Imported from ../chickadee-projects/shared/kicad/libraries/public/footprints/polystack.pretty/polystack-normal.svg
+svg2mod
+0
+0
+0
+polystack
+polystack-normal-0.75
+Imported from ../chickadee-projects/shared/kicad/libraries/public/footprints/polystack.pretty/polystack-normal.svg
+svg2mod
+0
+0
+0
+polystack
+polystack-normal-0.625
+Imported from ../chickadee-projects/shared/kicad/libraries/public/footprints/polystack.pretty/polystack-normal.svg
+svg2mod
+0
+0
+0
+polystack
+polystack-normal-1
+Imported from ../chickadee-projects/shared/kicad/libraries/public/footprints/polystack.pretty/polystack-normal.svg
+svg2mod
+0
+0
+0
+polystack
+polystack-normal-1.1
+Imported from ../chickadee-projects/shared/kicad/libraries/public/footprints/polystack.pretty/polystack-normal.svg
+svg2mod
+0
+0
+0
+protoarea
+catshape
+
+
+0
+0
+0
+renze
+PICO-LOCK
+
+
+0
+12
+12
+renze
+SO08-MOSFET
+<b>SMALL OUTLINE INTEGRATED CIRCUIT</b><p>body 3.9 mm/JEDEC MS-012AA<p>(combined pins variation)
+
+0
+3
+3
+sifive
+QFN-48_EP_6x6_Pitch0.4mm
+
+
+0
+52
+49
+slf7032
+SLF7032
+
+
+0
+2
+2
+sma-jack
+SMA Jack Straight
+
+
+0
+5
+0
+sma-jack
+SMA-Jack-Straight
+
+
+0
+5
+5
+st-ldo
+DPAK
+
+
+0
+3
+3
+ti-gate
+QFN-14-3.5x3.5mm
+
+
+0
+18
+14
+version2
+BatteryHolder_Keystone_2460_1xAA
+https://www.keyelco.com/product-pdf.cfm?p=1025
+AA battery cell holder
+0
+2
+2
+version2
+CP_Tantalum_Case-A_EIA-3216-18_Reflow
+Tantalum capacitor, Case A, EIA 3216-18, 3.2x1.6x1.6mm, Reflow soldering footprint
+capacitor tantalum smd
+0
+2
+2
+version2
+C_0603
+Capacitor SMD 0603, reflow soldering, AVX (see smccp.pdf)
+capacitor 0603
+0
+2
+2
+version2
+D_SOD-123
+SOD-123
+SOD-123
+0
+2
+2
+version2
+L_Bourns-SRN8040_8x8.15mm
+Bourns SRN8040 series SMD inductor 8x8.15mm, https://www.bourns.com/docs/Product-Datasheets/SRN8040.pdf
+Bourns SRN8040 SMD inductor
+0
+2
+2
+version2
+PJ320D_3.5mm_Jack
+Headphones with microphone connector, 3.5mm, 4 pins.
+3.5mm jack mic microphone phones headphones 4pins audio plug
+0
+4
+4
+version2
+Pin_Header_Straight_1x04_Pitch2.54mm
+Through hole straight pin header, 1x04, 2.54mm pitch, single row
+Through hole pin header THT 1x04 2.54mm single row
+0
+4
+4
+version2
+Pin_Header_Straight_2x03_Pitch2.54mm
+Through hole straight pin header, 2x03, 2.54mm pitch, double rows
+Through hole pin header THT 2x03 2.54mm double row
+0
+6
+6
+version2
+QFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm
+QFN, 24 Pin (http://ww1.microchip.com/downloads/en/PackagingSpec/00000049BQ.pdf#page=278), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
+QFN DFN_QFN
+0
+29
+25
+version2
+R_0603
+Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)
+resistor 0603
+0
+2
+2
+version2
+R_0805
+Resistor SMD 0805, reflow soldering, Vishay (see dcrcw.pdf)
+resistor 0805
+0
+2
+2
+version2
+SK3296S01L1
+SK-3296S-01-L1-1
+Connector
+0
+7
+7
+version2
+SOIC-8-N
+Module Narrow CMS SOJ 8 pins large
+CMS SOJ
+0
+8
+8
+version2
+SOT-23
+SOT-23, Standard
+SOT-23
+0
+3
+3
+version2
+SOT-23-5
+5-pin SOT23 package
+SOT-23-5
+0
+5
+5
+version2
+SOT-89-3
+SOT-89-3
+SOT-89-3
+0
+6
+3
+version2
+SW_SPST_SKQG
+ALPS 5.2mm Square Low-profile TACT Switch (SMD), http://www.alps.com/prod/info/E/PDF/Tact/SurfaceMount/SKQG/SKQG.PDF
+SPST Button Switch
+0
+4
+2
+version2
+TestPoint_Pad_1.0x1.0mm
+SMD rectangular pad as test Point, square 1.0mm side length
+test point SMD pad rectangle square
+0
+1
+1
+version2
+catshape3
+
+
+0
+0
+0
+version2
+led-sideways-2.0x0.5
+
+
+0
+2
+2
+xfdfn
+8-XFDFN
+
+
+0
+8
+8

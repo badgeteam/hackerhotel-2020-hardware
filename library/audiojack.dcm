@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AudioJack3_Ground
+D Audio Jack, 3 Poles (Stereo / TRS), Grounded Sleeve
+K audio jack receptacle stereo headphones phones TRS connector
+F ~
+$ENDCMP
+#
+$CMP pj320d
+D Audio Jack, 3 Poles (Stereo / TRS), Grounded Sleeve
+K audio jack receptacle stereo headphones phones TRS connector
+F ~
+$ENDCMP
+#
+#End Doc Library

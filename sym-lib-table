@@ -1,0 +1,10 @@
+(sym_lib_table
+  (lib (name QX2303L33E)(type Legacy)(uri ${KIPRJMOD}/library/QX2303L33E.lib)(options "")(descr ""))
+  (lib (name prototype2-rescue)(type Legacy)(uri ${KIPRJMOD}/hh2020v1-rescue.lib)(options "")(descr ""))
+  (lib (name audiojack)(type Legacy)(uri ${KIPRJMOD}/library/audiojack.lib)(options "")(descr ""))
+  (lib (name phototransistor)(type Legacy)(uri ${KIPRJMOD}/library/phototransistor.lib)(options "")(descr ""))
+  (lib (name Type-C)(type Legacy)(uri ${KIPRJMOD}/library/Type-C.pretty/Type-C.lib)(options "")(descr ""))
+  (lib (name oh49e)(type Legacy)(uri ${KIPRJMOD}/library/oh49e.lib)(options "")(descr ""))
+  (lib (name hh2020v1-rescue)(type Legacy)(uri ${KIPRJMOD}/hh2020v1-rescue.lib)(options "")(descr ""))
+  (lib (name hh2020)(type Legacy)(uri ${KIPRJMOD}/hh2020.lib)(options "")(descr ""))
+)

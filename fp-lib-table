@@ -1,0 +1,11 @@
+(fp_lib_table
+  (lib (name hh2020)(type KiCad)(uri ${KIPRJMOD}/library/hh2020.pretty)(options "")(descr ""))
+  (lib (name TestPoint)(type KiCad)(uri ${KIPRJMOD}/library/TestPoint.pretty)(options "")(descr ""))
+  (lib (name protoarea)(type KiCad)(uri ${KIPRJMOD}/library/protoarea.pretty)(options "")(descr ""))
+  (lib (name "Version 1 without artwork")(type KiCad)(uri "${KIPRJMOD}/Version 1 without artwork.pretty")(options "")(descr ""))
+  (lib (name artwork)(type KiCad)(uri ${KIPRJMOD}/artwork)(options "")(descr ""))
+  (lib (name kicad)(type KiCad)(uri ${KIPRJMOD}/artwork/kicad)(options "")(descr ""))
+  (lib (name version2)(type KiCad)(uri ${KIPRJMOD}/version2.pretty)(options "")(descr ""))
+  (lib (name Battery)(type KiCad)(uri "/home/renze/Documents/Projects/Badge.team/HH2020 badge/Battery.pretty")(options "")(descr ""))
+  (lib (name Type-C)(type KiCad)(uri ${KIPRJMOD}/library/Type-C.pretty)(options "")(descr ""))
+)
